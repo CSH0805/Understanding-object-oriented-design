@@ -14,6 +14,8 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 public class AppConfig {
+    //@Bean memberService --> new MemoryMemberRepository()
+
 
     // @Bean을 넣어주면 스프링 컨테이너라는 곳에 등록이 된다.
 
